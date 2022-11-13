@@ -1,4 +1,4 @@
 *.txt
-server/target/*
-webapp/target/*
+/server/target/
+/webapp/target/
 
